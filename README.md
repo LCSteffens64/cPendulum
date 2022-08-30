@@ -1,5 +1,5 @@
 # cPendulum
-Cart-Pendulum driver software for a proposed practical in part I of the Natural Sciences Tripos (Physical) at the Cavendish Laboratories of the Cambridge University Department of Physics.
+Cart-Pendulum driver software for a proposed practical in part I of the Natural Sciences Tripos (Physical) at the Cavendish Laboratories at the Cambridge University Department of Physics.
 
 <dl>
   <dt>Assembly Required</dt>
