@@ -25,3 +25,5 @@ Cart-Pendulum driver software for a proposed practical in part I of the Natural 
     </ul>
 </dl>
 
+<h1>Mathematical motivation</h1>
+  ![alt text](https://github.com/LCSteffens64/cPendulum/blob/main/cartpend.png?raw=true)
