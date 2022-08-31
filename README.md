@@ -1,6 +1,7 @@
 # cPendulum
 Cart-Pendulum driver software for a proposed practical in part I of the Natural Sciences Tripos (Physical) at the Cavendish Laboratories at the Cambridge University Department of Physics.
 
+
 <dl>
   <dt>Assembly Required</dt>
     <dd>The software contained within this repository was designed to drive and read data from a 3D-printed gantry onto which a pendulum is mounted. The gantry is belt-driven by an Arduino-controlled stepper motor, and the pendulum is fitted with a digital angle transducer. The cart rails are fitted with limit switches to prevent destructive encounters between the cart and the railheads. For more information, see Lucy's document on assembly and materials required.
@@ -26,4 +27,7 @@ Cart-Pendulum driver software for a proposed practical in part I of the Natural 
 </dl>
 
 <h1>Mathematical motivation</h1>
-![Free Body Diagram](cartpend.png)
+<center>
+  <img src="https://github.com/LCSteffens64/cPendulum/blob/main/cartpend.png?raw=true" height="400"/>
+</center>
+see 'Lagrangian of a Cart Pendulum.pdf' for a derivation.
