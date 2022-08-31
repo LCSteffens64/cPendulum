@@ -30,4 +30,4 @@ Cart-Pendulum driver software for a proposed practical in part I of the Natural 
 <center>
   <img src="https://github.com/LCSteffens64/cPendulum/blob/main/cartpend.png?raw=true" height="400"/>
 </center>
-see 'Lagrangian of a Cart Pendulum.pdf' for a derivation.
+see 'Lagrangian_of_a_Cart_Pendulum.pdf' for a derivation.
